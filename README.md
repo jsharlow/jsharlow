@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsharlow
-- 👀 I’m interested in C++, VB and SQL
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in AL, C++, and SQL
+- 🌱 I’m currently learning AL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at jsharlow@hotmail.com
 
